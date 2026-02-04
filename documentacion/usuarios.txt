@@ -1,0 +1,4 @@
+'1', 'admin', 'Administrador General', 'admin'
+'2', 'carlos', 'Carlos Herrera', 'inspector'
+'3', 'maria', 'María López', 'ingeniero'
+'4', 'juan', 'Juan Pérez', 'vista'

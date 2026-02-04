@@ -1,0 +1,46 @@
+body{
+      background-color:#D9EAF7;
+      font-family: 'Segoe UI', sans-serif;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+}
+
+/* NAV */
+.navbar {
+    background: rgba(13,110,253,0.75);
+    padding: 0.8rem 1.2rem;
+    backdrop-filter: blur(6px);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #fff !important;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    text-shadow: 1px 1px 3px black;
+}
+
+.navbar-nav .nav-link {
+    color: #f1f5f9 !important;
+    font-weight: 500;
+    padding: 8px 15px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    text-shadow: 1px 1px 3px black;
+}
+
+.rol-badge {
+    background-color: rgba(255,255,255,0.20);
+    color: #fff;
+    padding: 6px 14px;
+    border-radius: 25px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
